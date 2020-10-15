@@ -6,10 +6,9 @@ def find_max_value(array)
     if array[i] < array[j]
       bigger_number = array[j]
     end
-    
     i += 1
     j += 1
     return bigger_number
   end
-end
+  end
 end
