@@ -9,9 +9,9 @@ def find_max_value(array)
     end
      i += 1
     
-    return bigger_number
+    
   end
-
+  return bigger_number
   # sorted_arr = array.sort
   # return sorted_arr.pop
 end
