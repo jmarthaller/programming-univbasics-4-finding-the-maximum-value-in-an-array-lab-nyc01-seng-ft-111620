@@ -1,6 +1,6 @@
 def find_max_value(array)
   i = 0
-  j = 0
+
   while i < array.length do 
     while j < array.length do
     if array[i] < array[j]
