@@ -12,4 +12,6 @@ def find_max_value(array)
   #   puts i, j
   # end
   # end
+  sorted_arr = array.sort
+  return sorted_arr.pop
 end
