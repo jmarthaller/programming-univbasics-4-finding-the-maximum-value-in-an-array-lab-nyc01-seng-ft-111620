@@ -5,10 +5,10 @@ def find_max_value(array)
   
     if array[i] < array[i+1]
       bigger_number = array[i+1]
-       i += 1
+       
     end
-   
-    return bigger_number
+     i += 1
+    
     puts i
   end
   
