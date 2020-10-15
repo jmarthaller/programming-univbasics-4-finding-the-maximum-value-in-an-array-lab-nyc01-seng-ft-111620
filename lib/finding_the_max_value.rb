@@ -11,7 +11,7 @@ def find_max_value(array)
     
     puts i
   end
-  
+  return nil
   # sorted_arr = array.sort
   # return sorted_arr.pop
 end
