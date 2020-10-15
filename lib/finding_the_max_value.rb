@@ -9,6 +9,7 @@ def find_max_value(array)
     i += 1
     j += 1
     return bigger_number
+    puts i, j
   end
   end
 end
